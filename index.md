@@ -16,15 +16,12 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Verpackungstechnik
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+sub_heading: ''
+textline: Verpackungstechnik • PTFE-Erzeugnisse • Förder- und Transporttechnik
 hero_button:
-  text: Learn more
+  text: Über uns
   href: "/about"
-show_news: true
+show_news: false
 show_staff: false
 menu:
   navigation:
