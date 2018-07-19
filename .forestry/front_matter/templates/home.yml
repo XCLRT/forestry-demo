@@ -11,3 +11,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+pages:
+- home.html
