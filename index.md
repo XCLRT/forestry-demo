@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2018/07/19/Logo_Armbrecht & Matthes GmbH_2_Transparent.png"
 layout: landing-page
 heading: Armbrecht & Matthes GmbH
 partners:
