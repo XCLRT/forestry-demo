@@ -7,5 +7,3 @@ fields:
   default: "/uploads/2018/07/19/Logo_Armbrecht & Matthes GmbH_2_Transparent.png"
   hidden: false
 - type: text
-pages:
-- home.html
